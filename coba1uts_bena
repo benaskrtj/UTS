@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "coba1uts",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Bujur": 110.3991219, "Lintang": -7.75927035 }, "geometry": { "type": "Point", "coordinates": [ 110.3991219, -7.75927035 ] } },
+{ "type": "Feature", "properties": { "Bujur": 110.3991005, "Lintang": -7.759088933 }, "geometry": { "type": "Point", "coordinates": [ 110.3991005, -7.759088933 ] } }
+]
+}
